@@ -1,2 +1,2 @@
 # micro-service-skeleton
-Silex base skeleton for building micro services
+Silex i base skeleton for building micro services
